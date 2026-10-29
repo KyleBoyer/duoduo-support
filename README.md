@@ -1,6 +1,6 @@
 # DuoDuo Support
 
-Support site for **DuoDuo**.
+Support site for **DuoDuo: Folding Puzzle**.
 
 - Support & FAQ: https://kyleboyer.github.io/duoduo-support/
 - Privacy Policy: https://kyleboyer.github.io/duoduo-support/privacy.html

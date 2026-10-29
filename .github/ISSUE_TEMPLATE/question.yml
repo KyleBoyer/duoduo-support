@@ -16,4 +16,4 @@ body:
     id: device
     attributes:
       label: Device (optional)
-      placeholder: iPhone Duo, iOS 27.2
+      placeholder: iPhone Duo, iOS 27.1

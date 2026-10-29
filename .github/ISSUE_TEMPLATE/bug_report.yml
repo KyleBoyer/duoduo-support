@@ -17,29 +17,27 @@ body:
     id: device
     attributes:
       label: Device and OS version
-      placeholder: iPhone Duo, iOS 27.2
+      placeholder: iPhone Duo, iOS 27.1
     validations:
       required: true
   - type: input
-    id: app-version
+    id: level
     attributes:
-      label: App version
-      description: Settings → About → Version
-      placeholder: 1.1.0
+      label: Chapter and level
+      description: Shown at the top of the screen
+      placeholder: Crease · 2
   - type: dropdown
     id: area
     attributes:
       label: Area
       options:
-        - Bills / income / budgeting
-        - Sync between devices
-        - Backup / restore
-        - App lock (PIN / Face ID)
-        - Reminders / notifications
-        - Computer access
+        - A level or puzzle
+        - Folding / the hinge
+        - Hints or walkthrough
+        - Purchases / restore
         - Other
   - type: textarea
     id: extra
     attributes:
       label: Anything else?
-      description: Screenshots help. Blur anything personal.
+      description: Screenshots help.
